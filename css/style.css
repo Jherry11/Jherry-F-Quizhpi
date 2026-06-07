@@ -183,8 +183,8 @@ a {
 /* Disposición de la rejilla flexible para las 3 tarjetas en fila */
 .projects-grid {
     display: flex;
-    justify-content: space-between;
-    gap: 30px;
+    justify-content: Center;
+    gap: 25px;
     flex-wrap: wrap;
 }
 
