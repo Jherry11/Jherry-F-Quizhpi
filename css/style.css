@@ -46,7 +46,7 @@ a {
 /* Botón principal de la llamada a la acción (CTA) */
 .btn-primary {
     display: inline-block;
-    background-color: #4F8CFF;
+    background-color: #D4AF34;
     color: #1E1E1E;
     padding: 15px 30px;
     font-weight: 700;
@@ -88,7 +88,7 @@ a {
     width: 50px;
     height: 50px;
     background-color: #4F8CFF;
-    color: #040000;
+    color: #030202;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,14 +111,14 @@ a {
 }
 
 .nav-link:hover {
-    color: #4F8CFF;
+    color: #D4AF34;
 }
 
 /* ==========================================================================
    4. SECCIÓN HERO (Fondo: #2B4E5F)
    ========================================================================== */
 .hero-section {
-    background-color: #2B4E5F;
+    background-color: #171919;
     padding: 160px 20px 100px 20px; /* Margen superior amplio para evitar solapamiento con el header fijo */
 }
 
@@ -164,7 +164,7 @@ a {
     height: 400px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid #4F8CFF;
+    border: 5px solid #D4AF34;
 }
 
 /* ==========================================================================
@@ -290,7 +290,7 @@ a {
 }
 
 .contact-description {
-    color: #2B4E5F;
+    color: #D4AF34;
     font-size: 1.1rem;
 }
 
@@ -319,8 +319,8 @@ a {
 .form-input {
     width: 100%;
     padding: 12px 15px;
-    background-color: #2B4E5F;
-    border: 1px solid #2B4E5F;
+    background-color: #D4AF34;
+    border: 1px solid #D4AF34;
     border-radius: 4px;
     color: #F5F5F5;
     font-family: 'Source Code Pro', monospace;
@@ -331,7 +331,7 @@ a {
 /* Modificación estética al hacer foco sobre los inputs */
 .form-input:focus {
     outline: none;
-    border-color: #4F8CFF;
+    border-color: #D4AF34;
 }
 
 /* Forzado de comportamiento para evitar distorsiones del layout en campos de área de texto */
@@ -342,7 +342,7 @@ textarea.form-input {
 /* Botón de envío del formulario de contacto */
 .btn-submit {
     width: 100%;
-    background-color: #4F8CFF;
+    background-color: #D4AF34;
     color: #1E1E1E;
     padding: 15px;
     border: none;
@@ -396,6 +396,6 @@ textarea.form-input {
 }
 
 .social-link:hover {
-    color: #4F8CFF;
+    color:#D4AF34;
     transform: scale(1.05);
 }
