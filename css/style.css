@@ -176,7 +176,7 @@ a {
 
 /* Modificación temporal del título de la sección para garantizar el contraste sobre fondo claro */
 .projects-section .section-title {
-    color: #000000;
+    color: #fffefe;
 }
 
 /* Disposición de la rejilla flexible para las 3 tarjetas en fila */
