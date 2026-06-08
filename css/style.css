@@ -42,8 +42,6 @@ a {
     margin-bottom: 60px;
     color: #F5F5F5;
 }
-
-
 /* Botón principal de la llamada a la acción (CTA) */
 .btn-primary {
     display: inline-block;
@@ -291,7 +289,7 @@ a {
 }
 
 .contact-description {
-    color: #D4AF34;
+    color: #f5f4f2;
     font-size: 1.1rem;
 }
 
@@ -311,7 +309,7 @@ a {
 .form-label {
     display: block;
     margin-bottom: 8px;
-    color: #4F8CFF;
+    color: #fbfbfb;
     font-size: 0.9rem;
     font-weight: bold;
 }
@@ -343,8 +341,8 @@ textarea.form-input {
 /* Botón de envío del formulario de contacto */
 .btn-submit {
     width: 100%;
-    background-color: #f6f5f3;
-    color: #1E1E1E;
+    background-color: #0b0b0b;
+    color: #fdfdfd;
     padding: 15px;
     border: none;
     font-family: 'Source Code Pro', monospace;
