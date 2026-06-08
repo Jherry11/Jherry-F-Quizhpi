@@ -184,7 +184,7 @@ a {
 .projects-grid {
     display: flex;
     justify-content: Center;
-    gap: 25px;
+    gap:25px;
     flex-wrap: wrap;
 }
 
