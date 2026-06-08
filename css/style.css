@@ -42,13 +42,7 @@ a {
     margin-bottom: 60px;
     color: #F5F5F5;
 }
-.section--subtitle {
-    font-size: 1.5rem;
-    color: #D4AF37;
-    margin-bottom: 40px;
-    font-weight: 400;
-    letter-spacing: 1px;
-}
+
 
 /* Botón principal de la llamada a la acción (CTA) */
 .btn-primary {
@@ -153,7 +147,7 @@ a {
 
 .hero-subtitle {
     font-size: 1.5rem;
-    color: #f0f1f3;
+    color: #D4AF34;
     margin-bottom: 40px;
     font-weight: 400;
 }
@@ -184,7 +178,7 @@ a {
 
 /* Modificación temporal del título de la sección para garantizar el contraste sobre fondo claro */
 .projects-section .section-title {
-    color: #1E1E1E;
+    color: #070ff3;
 }
 
 /* Disposición de la rejilla flexible para las 3 tarjetas en fila */
@@ -237,7 +231,7 @@ a {
    6. SECCIÓN HABILIDADES (Fondo: #2B4E5F)
    ========================================================================== */
 .skills-section {
-    background-color: #000000;
+    background-color: #1f2937;
     padding: 100px 0;
 }
 
@@ -349,7 +343,7 @@ textarea.form-input {
 /* Botón de envío del formulario de contacto */
 .btn-submit {
     width: 100%;
-    background-color: #D4AF34;
+    background-color: #f6f5f3;
     color: #1E1E1E;
     padding: 15px;
     border: none;
