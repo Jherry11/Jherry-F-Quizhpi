@@ -42,6 +42,13 @@ a {
     margin-bottom: 60px;
     color: #F5F5F5;
 }
+.section--subtitle {
+    font-size: 1.5rem;
+    color: #D4AF37;
+    margin-bottom: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
 
 /* Botón principal de la llamada a la acción (CTA) */
 .btn-primary {
