@@ -63,7 +63,7 @@ a {
    3. HEADER (Fondo: #1E1E1E)
    ========================================================================== */
 .main-header {
-    background-color: #1E1E1E;
+    background-color: #000000;
     position: fixed;
     top: 0;
     left: 0;
@@ -117,7 +117,7 @@ a {
    4. SECCIÓN HERO (Fondo: #2B4E5F)
    ========================================================================== */
 .hero-section {
-    background-color: #171919;
+    background-color: #000000;
     padding: 160px 20px 100px 20px; /* Margen superior amplio para evitar solapamiento con el header fijo */
 }
 
@@ -194,7 +194,7 @@ a {
     min-width: 300px;
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 10px 20px rgb(255, 255, 255);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
