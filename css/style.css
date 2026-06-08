@@ -217,7 +217,7 @@ a {
 
 .project-card-title {
     font-size: 1.3rem;
-    color: #4F8CFF;
+    color: #2B4E5F;
     margin-bottom: 15px;
 }
 
@@ -252,7 +252,7 @@ a {
     text-align: center;
     font-weight: 600;
     border-radius: 4px;
-    border-left: 4px solid #4F8CFF;
+    border-left: 4px solid #D4AF34;
     transition: background-color 0.3s ease;
 }
 
