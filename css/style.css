@@ -295,7 +295,7 @@ a {
 
 .contact-form-block {
     flex: 1;
-    background-color: #f7f4f4;
+    background-color: #000000;
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 10px 20px rgba(241, 239, 239, 0.2);
@@ -318,10 +318,10 @@ a {
 .form-input {
     width: 100%;
     padding: 12px 15px;
-    background-color: #ffffff;
-    border: 1px solid #e8e7e4;
+    background-color: #000000;
+    border: 1px solid #000000;
     border-radius: 4px;
-    color: #090909;
+    color: #fbfbfb;
     font-family: 'Source Code Pro', monospace;
     font-size: 1rem;
     transition: border-color 0.3s ease;
