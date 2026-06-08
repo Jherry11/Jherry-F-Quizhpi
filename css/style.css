@@ -257,7 +257,7 @@ a {
 
 .skill-card:hover {
     background-color: #D4AF37;
-    color: #1E1E1E;
+    color: #000000;
 }
 
 /* ==========================================================================
@@ -321,7 +321,7 @@ a {
     background-color: #ffffff;
     border: 1px solid #e8e7e4;
     border-radius: 4px;
-    color: #F5F5F5;
+    color: #090909;
     font-family: 'Source Code Pro', monospace;
     font-size: 1rem;
     transition: border-color 0.3s ease;
