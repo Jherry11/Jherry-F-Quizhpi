@@ -264,7 +264,7 @@ a {
    7. SECCIÓN CONTACTO (Fondo: #C6D5D8)
    ========================================================================== */
 .contact-section {
-    background-color: #C6D5D8;
+    background-color: #312d2d;
     padding: 100px 20px;
 }
 
@@ -289,16 +289,16 @@ a {
 }
 
 .contact-description {
-    color: #f5f4f2;
+    color: #010101;
     font-size: 1.1rem;
 }
 
 .contact-form-block {
     flex: 1;
-    background-color: #1E1E1E;
+    background-color: #f7f4f4;
     padding: 40px;
     border-radius: 8px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 10px 20px rgba(241, 239, 239, 0.2);
 }
 
 /* Estructuración modular de las filas internas del formulario */
