@@ -176,7 +176,7 @@ a {
 
 /* Modificación temporal del título de la sección para garantizar el contraste sobre fondo claro */
 .projects-section .section-title {
-    color: #070ff3;
+    color: #000000;
 }
 
 /* Disposición de la rejilla flexible para las 3 tarjetas en fila */
@@ -341,7 +341,7 @@ textarea.form-input {
 /* Botón de envío del formulario de contacto */
 .btn-submit {
     width: 100%;
-    background-color: #0b0b0b;
+    background-color: #000000;
     color: #fdfdfd;
     padding: 15px;
     border: none;
