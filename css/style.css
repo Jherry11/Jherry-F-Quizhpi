@@ -224,7 +224,7 @@ a {
 
 .project-card-title {
     font-size: 1.3rem;
-    color: #2B4E5F;
+    color: #D4AF34;
     margin-bottom: 15px;
 }
 
@@ -251,7 +251,7 @@ a {
 
 /* Diseño estilizado e individual de las pastillas de habilidades */
 .skill-card {
-    background-color: #1E1E1E;
+    background-color: #D4AF34;
     color: #F5F5F5;
     flex: 1;
     min-width: 220px;
@@ -264,7 +264,7 @@ a {
 }
 
 .skill-card:hover {
-    background-color: #4F8CFF;
+    background-color: #D4AF37;
     color: #1E1E1E;
 }
 
@@ -338,7 +338,7 @@ a {
 /* Modificación estética al hacer foco sobre los inputs */
 .form-input:focus {
     outline: none;
-    border-color: #D4AF34;
+    border-color: #ffffff;
 }
 
 /* Forzado de comportamiento para evitar distorsiones del layout en campos de área de texto */
@@ -371,7 +371,7 @@ textarea.form-input {
 .main-footer {
     background-color: #000000;
     padding: 40px 20px;
-    border-top: 1px solid #2B4E5F;
+    border-top: 1px solid #D4AF37;
 }
 
 /* Distribución flexbox para centrar y balancear los elementos verticales del pie */
