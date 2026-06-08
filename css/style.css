@@ -13,7 +13,7 @@ html {
 /* Base del cuerpo con la tipografía asignada y color de texto claro predeterminado */
 body {
     font-family:'Times New Roman', Times, serif, monospace;
-    background-color: #0d0101;
+    background-color: #000000;
     color: #F5F5F5;
     line-height: 1.6;
 }
@@ -362,7 +362,7 @@ textarea.form-input {
    8. FOOTER (Fondo: #1E1E1E)
    ========================================================================== */
 .main-footer {
-    background-color: #1E1E1E;
+    background-color: #000000;
     padding: 40px 20px;
     border-top: 1px solid #2B4E5F;
 }
