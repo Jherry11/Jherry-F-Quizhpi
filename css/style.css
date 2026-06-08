@@ -13,7 +13,7 @@ html {
 /* Base del cuerpo con la tipografía asignada y color de texto claro predeterminado */
 body {
     font-family:'Times New Roman', Times, serif, monospace;
-    background-color: #010000;
+    background-color: #0d0101;
     color: #F5F5F5;
     line-height: 1.6;
 }
