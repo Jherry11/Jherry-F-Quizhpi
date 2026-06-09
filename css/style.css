@@ -353,7 +353,7 @@ textarea.form-input {
     transition: background-color 0.3s ease;
 }
 
-.btn-submit:hover {
+.boton-formulario:hover {
     background-color: #C6D5D8;
 }
 
