@@ -339,7 +339,7 @@ textarea.form-input {
 }
 
 /* Botón de envío del formulario de contacto */
-.btn-submit {
+.boton-formulario {
     width: 100%;
     background-color: #000000;
     color: #fdfdfd;
